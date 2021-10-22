@@ -1,6 +1,6 @@
 {
   "name": "@albertovalerio/ckeditor5-custom-build",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An extended build of the classic editor CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
